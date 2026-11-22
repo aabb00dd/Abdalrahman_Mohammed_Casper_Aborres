@@ -1,0 +1,6 @@
+# Diagnostic run from pretrained.ckpt: 20 rounds, 128 samples per discriminator class, 1024 evaluation samples.
+adversarial training...
+epoch:	5	nll:	9.059396743774414	bleu2:	0.06796333151663204	self_bleu:	0.07036078740861071
+epoch:	10	nll:	9.010072708129883	bleu2:	0.06883767389395308	self_bleu:	0.07670371448973733
+epoch:	15	nll:	9.010995864868164	bleu2:	0.07110844890081369	self_bleu:	0.07476896843993026
+epoch:	20	nll:	8.968635559082031	bleu2:	0.07020375509113422	self_bleu:	0.08496819987155696

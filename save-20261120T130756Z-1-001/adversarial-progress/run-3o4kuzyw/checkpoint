@@ -1,0 +1,2 @@
+model_checkpoint_path: "/content/drive/MyDrive/Colab Notebooks/Ass2510/save/adversarial-progress/run-3o4kuzyw/seqgan_final.ckpt"
+all_model_checkpoint_paths: "/content/drive/MyDrive/Colab Notebooks/Ass2510/save/adversarial-progress/run-3o4kuzyw/seqgan_final.ckpt"

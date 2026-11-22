@@ -1,0 +1,2 @@
+model_checkpoint_path: "seqgan_final.ckpt"
+all_model_checkpoint_paths: "seqgan_final.ckpt"

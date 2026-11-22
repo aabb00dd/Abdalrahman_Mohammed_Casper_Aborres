@@ -1,0 +1,20 @@
+{
+  "experiment": "baseline",
+  "generator_learning_rate": 0.009999999776482582,
+  "rollouts": 16,
+  "settings": {
+    "seed": 88,
+    "rounds": 50,
+    "batch_size": 64,
+    "generated_samples": 9984,
+    "pretrained_checkpoint": "save/pretrained.ckpt",
+    "checkpoint_index_timestamp": 1794826427000000000,
+    "positive_file": "save/real_data.txt",
+    "positive_file_timestamp": 1794826427000000000
+  },
+  "tensorflow_seed": 88,
+  "nll": 8.712571144104004,
+  "bleu2": 0.08463274265306353,
+  "self_bleu": 0.1281052036086341,
+  "distinct2": 0.7495308282726046
+}
